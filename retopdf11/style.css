@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+@import url("https://fonts.google.com/specimen/Open+Sans");
+* {
+font-family:sans-serif ;
+}
