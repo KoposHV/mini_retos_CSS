@@ -1,0 +1,13 @@
+a {
+    background-color: rgb(82, 78, 78);
+}
+a:hover {background-color: rgb(180, 173, 173);}
+
+a {
+    border-color: darkmagenta;}
+a {
+    border-style: groove;
+}
+a:active {
+    background-color: blueviolet;
+}
