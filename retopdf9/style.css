@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ body {
+  font-size:16px ;
+  font-family: sans-serif;
+  color: white;
+  background-color: black;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 1rem 2%;
+    }
+ h1 {
+ font-size:32px;
+ margin: 0;
+}
+main {
+    width:"=>1000px";
+    }
+.ems mains {
+    font-size: 1em;
+}
+.ems footer {
+    font-size: 1em;
+}
